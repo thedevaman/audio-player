@@ -80,8 +80,8 @@ const App = ()=>{
 
     player.seekTo(currentPlayertime / duration)
 
-     console.log(currentPlayertime)
-     console.log(currentPlayertime / duration)
+    //  console.log(currentPlayertime)
+    //  console.log(currentPlayertime / duration)
     
     setCurrentTime(currentPlayertime)
     }
